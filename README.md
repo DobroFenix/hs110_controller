@@ -6,11 +6,11 @@
 <br/>
 Основано на TP-Link WiFi SmartPlug Client and Wireshark Dissector<br/>
 https://github.com/softScheck/tplink-smartplug
-<br/><br/>
+
 # Требования
 Минимальные: python, PHP 5.5+, sqlite<br/>
 Рекомендованные: python, PHP 7.3+, sqlite, mysql, memcached
-<br/><br/>
+
 # Установка
 
 <br/><br/>

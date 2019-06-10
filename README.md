@@ -11,7 +11,6 @@ https://github.com/softScheck/tplink-smartplug
 Минимальные: python, PHP 5.5+, sqlite<br/>
 Рекомендованные: python, PHP 7.3+, sqlite, mysql, memcached<br/>
 shell_exec !!!!!!!!!!!!!<br/>
-<br/>
 # Установка
 
 <br/><br/>
